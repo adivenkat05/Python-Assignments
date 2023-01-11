@@ -8,8 +8,8 @@ def first_last_same(list):
         return "The result is FALSE."
 
 
-list1 = [10, 20, 30, 10]
-print(first_last_same(list1))
+numbers_x = [10, 20, 30, 40, 10]
+print(first_last_same(numbers_x))
 
-list2 = [10, 20, 30, 40]
-print(first_last_same(list2))
+numbers_y = [75, 65, 35, 75, 30]
+print(first_last_same(numbers_y))
