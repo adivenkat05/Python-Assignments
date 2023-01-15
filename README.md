@@ -9,7 +9,7 @@ So, I implement this concept in learning Python.
 
 These are the basic exercises to learn Python concepts thoroughly.
 
-I referred many articles & blogs to explore these exercises.  
+I solved problems from this website (https://pynative.com/python-basic-exercise-for-beginners/) 
 
 I made README files seperately for each folders. You can open them, read it and try to solve it.
 
